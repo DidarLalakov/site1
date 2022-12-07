@@ -1,0 +1,19 @@
+body {
+   min-height: 100vh;
+   background: #0c0116;
+}
+.table{
+	padding: 15px;
+	width: 100%
+}
+.table th {
+	border:1px solid #555;
+	background-color: green;
+	color: #fff
+}
+.table td{
+	color: #fff;
+	border:1px solid #555;
+	text-align: center;
+	padding: 5px;
+}
